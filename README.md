@@ -1,4 +1,8 @@
 # OPTIMIZED-TCC-FLOOR-SYSTEMS-BASED-ON-DIFFERENCE-EQUATIONS-PROCEDURE
+INSTALLATION:  Download or clone this repository.
+               Add the repository and its subfolders to the MATLAB search path.
+               Open Mainfile.m.
+               
 REFERENCE:     Alex Muellner; Alireza Fadai.
                'Optimization algorithm for cost- and resource-efficient
                timber-concrete-composite floor systems'.
